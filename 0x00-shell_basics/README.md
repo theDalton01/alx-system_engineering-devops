@@ -12,3 +12,4 @@ And hidden files starting with .
 7. Move the file betty from /tmp/ to /tmp/my_first_directory
 8. Deletes the file betty from  /tmp/my_first_directory
 9. Delete the directory my_first_directory that is in the /tmp directory
+10. changes the working directory to the previous one

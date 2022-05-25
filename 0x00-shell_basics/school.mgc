@@ -1,4 +1,4 @@
 #!/bin/bash
-file -m school.mgc
+file --mime-type -m holberton.mgc
 file -C -m school.mgc
 

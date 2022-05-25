@@ -8,3 +8,5 @@ first script prints current working directory
 Long format
 with user and group IDs displayed numerically
 And hidden files starting with .
+6. creates a directory named my_first_directory in the /tmp/ directory
+7. Move the file betty from /tmp/ to /tmp/my_first_directory
